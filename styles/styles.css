@@ -73,10 +73,66 @@ mid night party styles
   font-weight: 800;
 }
 .btn {
-  text-decoration: none;
   border:none;
   font-weight: bold;
   font-size: 20px;
-  background-color: rgba(0, 0, 0, 0);
   color:white;
+  background-color: rgba(0, 0, 0, 0.59);
+  text-decoration: none;
+}
+/* style section three */
+#location {
+  justify-content: center;
+  padding-top: 100px;
+  text-align: center;
+  background-color: #f8a6a6;
+  width:1320px;
+  height:482px;
+  border-radius:16px;
+  line-height: 16px;
+}
+.red{
+  color:red;
+}
+.location-title ,.location-sub-title , .location-describtion {
+  font-size: 32px;
+  font-weight:800;
+}
+.location-btn {
+  padding:16px 32px 16px 32px;
+  border-radius: 8px;
+  color:white;
+  background-color: rgb(252, 37, 37);
+  font-size: 20px;
+  font-weight: bold;
+}
+.location-container {
+  padding-bottom: 48px;
+}
+/* section four style */
+.colums-parent {
+  align-items: center;
+  justify-content: center;
+  display:flex;
+}
+.com-img {
+  background-color: red;
+}
+.colum1,.colum3 {
+  line-height: 24px;
+}
+.offer-sub-title{
+  font-size: 42px;
+  font-weight: 800;
+}
+.offer-title {
+  font-size: 24px;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+.circle {
+  box-sizing: border-box; 
+  border: 15px solid rgb(255, 0, 0);
+  border-radius: 50%;
+  padding: 15px;
 }
