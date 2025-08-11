@@ -152,6 +152,29 @@ mid night party styles
   top: -200px;
 }
 .image2 {
-  top: -200px;
-  left: 150px;
+  top: -180px;
+  left: 90px;
+}
+.sale-title {
+  font-size: 24px;
+  font-weight: 500;
+  color: #070211;
+}
+.sale-sub-title{
+  font-size: 72px;
+  font-weight:700;  
+}
+.sale-description{
+  font-size: 20px;
+  font-weight: 200;
+}
+.parent-sale{
+  align-items: center;
+  text-align: center;
+}
+.sale-container {
+  line-height: 30px;
+}
+.image-box {
+  margin-top: -180px;
 }
