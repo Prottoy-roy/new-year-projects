@@ -113,7 +113,7 @@ mid night party styles
 .colums-parent {
   align-items: center;
   justify-content: center;
-  display:flex;
+  display: flex;
 }
 .com-img {
   background-color: red;
@@ -177,4 +177,95 @@ mid night party styles
 }
 .image-box {
   margin-top: -180px;
+}
+/* section six styles */
+.card-title {
+  color: red;
+  font-size: 29px;
+  font-weight: 200;
+}
+.card-sub-title {
+  font-size: 60px;
+  font-weight: 600;
+}
+.card-description{
+  font-size: 20px;
+}
+.card-container-head {
+  width: 1163px;
+  height: 1320px;
+  margin-left: 140px;
+}
+.colum5 ,.colum6 {
+  display:flex;
+  gap: 24px;
+  margin:0px;
+}
+.flex {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+/* footer style */
+.email-container {
+  width: 1320px;
+  height: 616px;
+  background-color: #f9c0c0;
+  border-radius: 16px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.email-title {
+  font-size: 48px;
+  font-weight: 800;
+  margin-top: 0;
+  color:#070211;
+}
+.emai-description {
+  color: #070211;
+  font-size: 20px;
+}
+.email-form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+}
+form {
+  background-color: #fff;
+  width: 642px;
+  height: 72px;
+  display: flex;
+  border-radius: 50px;
+}
+form input {
+  border: none;
+  outline : none;
+  flex: 1;
+}
+form button {
+  padding:auto;
+  outline: none ;
+  color: tomato;
+  border: none;
+  cursor: pointer;
+}
+/* footer items style */
+.footer-container {
+  width: 1600px;
+  height: 609px;
+  background-color: #070211;
+}
+.footer-items {
+  align-items: center;
+  justify-content:space-between;
+  display: flex;
+  color: white;
+}
+.big {
+  margin-bottom: 260px;
+}
+.big1 {
+  margin-top: 240px;
+  margin-left: 150px;
 }
